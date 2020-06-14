@@ -2,6 +2,7 @@
 
 - Análisis exploratorio de los datos
 - Comparación de resultados de predicción por MLR, ARIMA, CART y TBATS
+- Clasificador de fase de confinamiento
 - Correlación intensidad con datos de movilidad Google
 
 TFM de [Máster Universitario de Ingeniería de Telecomunicación](https://www.etsit.upm.es/estudios/master-universitario-en-ingenieria-de-telecomunicacion.html).
