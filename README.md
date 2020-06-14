@@ -1,0 +1,9 @@
+# Comparación algoritmos para predicción de intensidad de tráfico (TFM)
+
+Comparación de resultados de predicción por MLR, ARIMA, CART y TBATS para TFM de [Máster Universitario de Ingeniería de Telecomunicación](https://www.etsit.upm.es/estudios/master-universitario-en-ingenieria-de-telecomunicacion.html).
+
+Universidad Politécnica de Madrid. 
+Escuela Superior de Ingenieros de Telecomunicación.
+
+Aplicación desplegada [aquí](https://thawing-brushlands-00257.herokuapp.com/)
+
